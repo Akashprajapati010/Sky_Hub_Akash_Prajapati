@@ -39,7 +39,7 @@ It provides both **Free** and **Pro** models, with membership options and licens
 ![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/3ba7367ca79e62c04aa46b192d96a8a6dfb93592/Image/Screenshot%202025-08-17%20140117.png)
 ![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/3ba7367ca79e62c04aa46b192d96a8a6dfb93592/Image/Screenshot%202025-08-17%20140154.png)
 ![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/3ba7367ca79e62c04aa46b192d96a8a6dfb93592/Image/Screenshot%202025-08-17%20140324.png)
-![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/3ba7367ca79e62c04aa46b192d96a8a6dfb93592/Image/Screenshot%202025-08-17%20140352.png)
+![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/0f5081e145f943c0321207f2b2e609fd143b1b49/Image/Screenshot%202025-08-17%20142739.png)
 ![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/3ba7367ca79e62c04aa46b192d96a8a6dfb93592/Image/Screenshot%202025-08-17%20140434.png)
 ![image alt](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati/blob/3ba7367ca79e62c04aa46b192d96a8a6dfb93592/Image/Screenshot%202025-08-17%20140523.png)
 
