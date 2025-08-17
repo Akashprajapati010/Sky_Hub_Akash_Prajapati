@@ -115,8 +115,17 @@ It provides both **Free** and **Pro** models, with membership options and licens
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License** – feel free to use and adapt for learning purposes.
-## 📝 Made By
-**Akash Prajapati**
+## 📄 License  
+This project is licensed under the **MIT License** – feel free to use and adapt for learning purposes.  
+
+## 📝 Made By  
+**Akash Prajapati**  
+
+## 📬 Contact  
+- 📧 Email: yourmail@example.com  
+- 💼 LinkedIn: [Akash Prajapati](nkedin.com/in/akash-prajapati-521278256/)  
+- 🐙 GitHub: [Akashprajapati010](https://github.com/Akashprajapati010)  
+
+---
+⭐ If you like this project, give it a star on [GitHub](https://github.com/Akashprajapati010/Sky_Hub_Akash_Prajapati)!
 
