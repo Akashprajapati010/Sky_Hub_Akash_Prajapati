@@ -1,5 +1,10 @@
 # Sky Hub 🚀  
-_A modern digital goods marketplace built with Framer_  
+## 📖 What is Sky Hub?
+
+Sky Hub is a modern digital goods marketplace created with Framer.
+It is designed to let creators sell 3D models and assets with flexible pricing (Free / Pro), license activation, and membership features.
+
+The project demonstrates how Framer’s CMS and no-code + low-code flexibility can be leveraged to build a professional, scalable digital marketplace.
 
 [![Framer](https://img.shields.io/badge/Built%20with-Framer-000000?logo=framer)](https://framer.com/)  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://akashskyhub.framer.website/)  
@@ -8,13 +13,78 @@ _A modern digital goods marketplace built with Framer_
 
 ## 📌 Project Overview  
 **Sky Hub** is a minimal and interactive **Framer-based marketplace** for selling **3D assets**.  
-It provides both **Free** and **Pro** models, with membership options and license activation.  
+It provides both **Free** and **Pro** models, with membership options and license activation. 
+
+### 🎯 Project Goals  
+
+- ✅ Create a **user-friendly platform** to explore and purchase 3D assets.  
+- ✅ Provide **membership and licensing features** for premium access.  
+- ✅ Keep the **UI/UX clean, responsive, and minimal**.  
+- ✅ Use **Framer CMS** to make product management simple and dynamic.  
+- ✅ Showcase skills in **web design, frontend structure, and UX clarity**.  
+
+---
+
+### 🧩 Core Functionalities  
+
+1. **Product Catalog**  
+   - Organized grid of assets (3D models like animals, monsters, characters).  
+   - Includes **product name, price, and license info**.  
+   - Premium products marked as **Featured**.  
+
+2. **Search & Filtering**  
+   - Browse assets by categories:  
+     - 🔹 All  
+     - 🔹 Free  
+     - 🔹 Aliens  
+     - 🔹 Animals  
+     - 🔹 Monsters  
+
+3. **Membership System**  
+   - CTA buttons like **“Become a Member”**.  
+   - Premium assets are available only to **Pro users**.  
+
+4. **License Activation**  
+   - Users can **activate their license** after purchase.  
+   - Ensures digital rights management.  
+
+5. **Authentication Pages**  
+   - Login, Sign Up, and Forgot Password flows.  
+   - Future integration with **email OTP / Google Sheets**.  
+
+6. **CMS Powered**  
+   - Products managed via **Framer CMS collections**.  
+   - Makes adding new 3D assets easy.  
+
+7. **Responsive Design**  
+   - Works seamlessly on **desktop, tablet, and mobile**.  
+
+---
+
+### 🖼️ UI/UX Design Choices  
+
+- **Minimal Layout** – clean white background with a product-first approach.  
+- **Consistent Cards** – all products shown in uniform card design.  
+- **Clear Navigation** – top bar includes Explore, License, Sign In, Membership.  
+- **Modern Typography & Icons** – to create a professional vibe.  
+- **Future-Proofing** – space for animation, 3D previews, and payment integration.  
+
+---
+
+### 🌟 Why Sky Hub is Unique  
+
+- It’s **not just a website** → it’s a **functional product showcase**.  
+- Built with **Framer**, which highlights **design + technical skills**.  
+- Combines **e-commerce concepts** (membership, licensing, catalog) with **modern UX design**.  
+- Flexible enough to **expand into a full marketplace** in the future.  
+
+---
 
 🔗 **Live Demo** → [akashskyhub.framer.website](https://akashskyhub.framer.website/)  
 
 ---
 
-## ✨ Features  
+### ✨ Features  
 
 - 🎨 **Product Showcase** – Clean grid layout for assets with pricing & licensing info  
 - 🔍 **Search & Filters** – Find assets by categories (Free, Aliens, Animals, Monsters)  
@@ -25,7 +95,7 @@ It provides both **Free** and **Pro** models, with membership options and licens
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
 - [Framer](https://framer.com/) – Website builder & CMS  
 - Framer Motion – For animations & transitions  
