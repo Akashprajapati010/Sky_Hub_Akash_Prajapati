@@ -2,7 +2,6 @@
 _A modern digital goods marketplace built with Framer_  
 
 [![Framer](https://img.shields.io/badge/Built%20with-Framer-000000?logo=framer)](https://framer.com/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://akashskyhub.framer.website/)  
 
 ---
