@@ -81,10 +81,7 @@ It provides both **Free** and **Pro** models, with membership options and licens
 ---
 
 ## 👥 Live Demo
-<p>
-  ⚠️ <strong>Best Viewed on Desktop:</strong>
-  This website is not fully responsive yet, as this is my first project built with React.js.
-</p>
+
 <a href="https://akashskyhub.framer.website/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen" alt="Live Demo">
 </a>  
